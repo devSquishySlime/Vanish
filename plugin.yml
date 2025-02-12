@@ -1,7 +1,7 @@
 name: Vanish
 author: SquishySlime
 main: com.squishyslime.Main
-version: 1.0.0
+version: 1.0.1
 description: Adding the ability to hide from others on your server!
 commands:
   vanish:
